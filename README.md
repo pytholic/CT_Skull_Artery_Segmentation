@@ -1,4 +1,4 @@
-# CT_Skull_Artery_Segmentation
+# CT Skull Artery Segmentation
 Segmentation of arteries in CT skull scans. We will use the `Deep Learning-based` approach.
 
 ## Steps
@@ -12,6 +12,7 @@ Segmentation of arteries in CT skull scans. We will use the `Deep Learning-based
 Skull CT scans of 49 patients are collected.
 
 ### Preprocessing
+
 ### Labeling the Dataset
 The next main and crucial step is to generate ground-truth masks. We can do this *manually* or in a *semi-automated* way using some image processing tools like **3D Slicer**, **VTK**, **OpenCV**, etc.
 
