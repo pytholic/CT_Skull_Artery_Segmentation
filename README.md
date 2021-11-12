@@ -24,3 +24,6 @@ There are three main issues with generating `ground-truth masks` for arteries in
 * I only have `baseline` CT images and no `contrast` CT images. 
 
 **Note:** `Contrast images` correspond to images when an agent is injected into the patient's body before the scan to highlight the target area.
+
+### Implementation Resources
+* [MSRF-Net: A Multi-Scale Residual Fusion Network for Biomedical Image Segmentation](https://github.com/NoviceMAn-prog/MSRF-Net)
