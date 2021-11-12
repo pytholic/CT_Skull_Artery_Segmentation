@@ -4,7 +4,7 @@ Segmentation of arteries in CT skull scans. We will use the `Deep Learning-based
 ## Steps
 * Collecting data
 * Preprocessing
-* Groundtruth Masks
+* Ground-truth Masks
 * Training and Validation
 * Testing
 
